@@ -24,11 +24,10 @@ We cannot thank our sponsors enough for their incredible support in funding Pest
 
 ### Platinum Sponsors
 
+- **[CodeRabbit](https://coderabbit.ai)**
 - **[LaraJobs](https://larajobs.com)**
 - **[Brokerchooser](https://brokerchooser.com)**
 - **[Forge](https://forge.laravel.com)**
-- **[Spatie](https://spatie.be)**
-- **[Worksome](https://www.worksome.com/)**
 
 ### Premium Sponsors
 
@@ -38,6 +37,8 @@ We cannot thank our sponsors enough for their incredible support in funding Pest
 - [Laracasts](https://laracasts.com/?ref=pestphp)
 - [Localazy](https://localazy.com/?ref=pestphp)
 - [Route4Me](https://www.route4me.com/?ref=pestphp)
+- [Spatie](https://spatie.be)
+- [Worksome](https://www.worksome.com/)
 - [Zapiet](https://www.zapiet.com/?ref=pestphp)
 
 Pest is an open-sourced software licensed under the **[MIT license](https://opensource.org/licenses/MIT)**.
