@@ -20,7 +20,7 @@
         "php": "^8.2.0",
         "brianium/paratest": "^7.6.0",
         "nunomaduro/collision": "^8.5.0",
-        "nunomaduro/termwind": "^2.2.0",
+        "nunomaduro/termwind": "^2.3.0",
         "pestphp/pest-plugin": "^3.0.0",
         "pestphp/pest-plugin-arch": "^3.0.0",
         "pestphp/pest-plugin-mutate": "^3.0.5",
@@ -54,8 +54,8 @@
     },
     "require-dev": {
         "pestphp/pest-dev-tools": "^3.3.0",
-        "pestphp/pest-plugin-type-coverage": "^3.1.0",
-        "symfony/process": "^7.1.6"
+        "pestphp/pest-plugin-type-coverage": "^3.2.0",
+        "symfony/process": "^7.1.8"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,

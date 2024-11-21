@@ -6,7 +6,7 @@ class ExampleTest extends Base\ExampleTest
 {
     protected $foo;
 
-    public function testExample()
+    public function test_example()
     {
         $this->assertTrue(true);
     }

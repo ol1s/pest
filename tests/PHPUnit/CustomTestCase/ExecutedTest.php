@@ -13,7 +13,7 @@ class ExecutedTest extends TestCase
     public static $executed = false;
 
     #[Test]
-    public function testThatGetsExecuted(): void
+    public function test_that_gets_executed(): void
     {
         self::$executed = true;
 

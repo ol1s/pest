@@ -17,7 +17,7 @@ class ParentTest extends TestCase
     }
 
     #[Test]
-    public function testOverrideMethod(): void
+    public function test_override_method(): void
     {
         assertTrue($this->getEntity() || true);
     }
