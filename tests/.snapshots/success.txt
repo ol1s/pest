@@ -1491,6 +1491,16 @@
    PASS  Tests\Playground
   ✓ basic
 
+   PASS  Tests\Plugins\Coverage
+  ✓ compute comparable coverage with (0, 0)
+  ✓ compute comparable coverage with (0.5, 0.5)
+  ✓ compute comparable coverage with (1.0, 1.0)
+  ✓ compute comparable coverage with (32.51, 32.5)
+  ✓ compute comparable coverage with (32.12312321312312, 32.1)
+  ✓ compute comparable coverage with (32.53333333333333, 32.5)
+  ✓ compute comparable coverage with (32.57777771232132, 32.5)
+  ✓ compute comparable coverage with (100.0, 100.0)
+
    PASS  Tests\Plugins\Traits
   ✓ it allows global uses
   ✓ it allows multiple global uses registered in the same path
@@ -1698,4 +1708,4 @@
    WARN  Tests\Visual\Version
   - visual snapshot of help command output
 
-  Tests:    2 deprecated, 4 warnings, 5 incomplete, 2 notices, 38 todos, 24 skipped, 1142 passed (2720 assertions)
+  Tests:    2 deprecated, 4 warnings, 5 incomplete, 2 notices, 38 todos, 33 skipped, 1152 passed (2744 assertions)
